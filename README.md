@@ -1,2 +1,2 @@
 # 3-column-preview-card-component
-frontend_mentor_1 
+frontend_mentor_2
